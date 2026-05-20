@@ -191,6 +191,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 Over time, I realized I enjoy the process of turning abstract problems into clear, working solutions more than just writing code. I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable. 
 
 <br>
+<br>
+<br>
 
 Outside of coding, I value consistency, discipline, and continuous learning over quick results. Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. Open to contributing to real systems while learning from experienced engineers and growing both technically and professionally. </a> </h2> </div>
 

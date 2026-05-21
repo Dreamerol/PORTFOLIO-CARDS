@@ -288,7 +288,7 @@ Outside of coding, I value consistency, discipline, and continuous learning over
 
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 

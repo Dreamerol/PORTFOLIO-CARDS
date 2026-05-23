@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 

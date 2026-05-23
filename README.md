@@ -207,7 +207,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 ## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>
 
-
+## Python • SQL • Algorithms • Backend Engineering
 
 ## ∫ data → systems ✨
 

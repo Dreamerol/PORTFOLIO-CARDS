@@ -322,6 +322,8 @@ Outside of coding, I value consistency, discipline, and continuous learning over
 
 </div>
 
+---
+
 <br><br><br>
 
 

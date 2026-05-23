@@ -195,22 +195,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 </div>
 
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
-  
-<h2>
-𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗲𝗺, 𝗯𝘂𝘁 𝗳𝗲𝗲𝗹𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗳𝗶𝘁 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.  
-<br><br>
-
-Over time, this curiosity turned into something steady — I enjoy shaping abstract problems into simple, working solutions, where logic and structure quietly do the heavy lifting.
-<br><br>
-
-Outside of coding, I value calm consistency, discipline, and slow, steady improvement. I’m focused on growing as a Software Engineer and data-driven problem solver, with interest in systems, algorithms, and machine learning.
-</h2>
-
-</div>
-
-
-
 
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
   

@@ -305,7 +305,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 </div>
 
-<hr>
+<br>
 
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 

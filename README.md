@@ -243,12 +243,12 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
   <img height="65" src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">

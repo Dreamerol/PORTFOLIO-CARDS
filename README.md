@@ -79,7 +79,7 @@ Interested in how systems emerge from simplicity — where structure, logic and 
 
 <br>
 
-Focused on calm consistency, disciplined execution and continuous improvement across systems, algorithms and machine learning.
+Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning.
 
 <br>
 

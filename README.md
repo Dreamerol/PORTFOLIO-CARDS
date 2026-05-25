@@ -79,7 +79,7 @@ Interested in how systems emerge from simplicity - where structure, logic and li
 
 <br>
 
-Outside of coding, there is a focus on calm consistency, discipline and continuous improvement in systems, algorithms and machine learning.
+Focused on calm consistency, disciplined execution and continuous improvement across systems, algorithms and machine learning.
 
 <br>
 

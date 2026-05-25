@@ -77,11 +77,11 @@
   
 Interested in how systems emerge from simplicity — where structure, logic, and constraints turn abstract problems into working systems.
 
-<hr>
+<br>
 
 Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning. 
 
-<hr>
+<br>
 
 Think deeply. Build precisely. Move with intent.
 

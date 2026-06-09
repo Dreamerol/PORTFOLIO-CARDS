@@ -325,6 +325,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 ---
 
+
+
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
@@ -346,7 +348,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-
+<br>
 
 
 
